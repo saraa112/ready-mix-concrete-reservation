@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "97416627072",
+    "project_id": "concret-reserv",
+    "storage_bucket": "concret-reserv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97416627072:android:0bfc470d3d01ecc0397765",
+        "android_client_info": {
+          "package_name": "com.example.concrete_reserv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97416627072-qksdfr7ls9oqg7uvh4ejs9ufccqo1v15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnCgfpeb-cD9dKDmhLb_4Qz4TCyRIJXf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97416627072-qksdfr7ls9oqg7uvh4ejs9ufccqo1v15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
